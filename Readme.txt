@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+selamat datang di website portfolio Rifki Eko Satrio
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name: Rifki Eko Satrio
+URL: rifkiekosatrio/portfolio/
+alamat: BootstrapMade.com
+no hanphone: +628960326XXXX
